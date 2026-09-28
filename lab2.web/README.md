@@ -45,7 +45,24 @@ Menambahkan audio dan video menggunakan elemen `<audio>` dan `<video>`.
 9. Proyek Mini
 Membuat halaman biodata mahasiswa yang berisi semantic structure, tabel data, form, dan validasi dasar.
 
-### bukti tangkap layar
+### DOKUMENTASI
 
-Tambahkan screenshot hasil praktik pada bagian ini sesuai hasil yang diperoleh di browser.
+![img](media/1.png)
 
+![img](media/2.png)
+
+![img](media/3.png)
+
+![img](media/4.png)
+
+![img](media/5.png)
+
+![img](media/6.png)
+
+![img](media/7.png)
+
+![img](media/8.png)
+
+![img](media/9.png)
+
+![img](media/10.png)
